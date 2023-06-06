@@ -1,4 +1,4 @@
-# text-editor
+# Basic Text Editor
 It is a basic Text Editor made using Java Swing.
 
 To Run it locally:
